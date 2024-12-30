@@ -285,7 +285,7 @@ With the new rules enforced, update the passwords for both your user account and
 
 ### Monitoring Script
 
-#### Writing the cript
+#### Writing the script
 
 [You can check my script](monitoring.sh), but I will not cover this part. RTFM DYOR 🤓
 
